@@ -1,6 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-int number1 = 10;
-int number2 = 5;
+﻿Console.WriteLine("첫 번째 숫자를 입력하세요.");
+string userInput1 = Console.ReadLine();
+double number1 = double.Parse(userInput1);
+Console.WriteLine("두 번째 숫자를 입력하세요.");
+string userInput2 = Console.ReadLine();
+double number2  =  double.Parse(userInput2);
+
 Console.Write(number1);
 Console.Write(" + ");
 Console.Write(number2);
