@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorLock", "DoorLock\DoorLock.csproj", "{CBD26859-2801-472C-840E-D9EF3C290704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD26859-2801-472C-840E-D9EF3C290704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD26859-2801-472C-840E-D9EF3C290704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD26859-2801-472C-840E-D9EF3C290704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD26859-2801-472C-840E-D9EF3C290704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6033D64-F287-47D4-9AED-3D83AA81E74A}
+	EndGlobalSection
+EndGlobal
