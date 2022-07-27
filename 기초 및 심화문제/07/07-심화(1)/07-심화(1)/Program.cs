@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("학생 숫자를 입력하세요.");
+﻿Console.WriteLine("학생 숫자를 입력하세요.");
 int studentCount = int.Parse(Console.ReadLine());
 
 int[] ages = new int[studentCount];
@@ -22,7 +21,7 @@ if (studentNumber >= 0 && studentNumber <= studentCount - 1)
     Console.WriteLine("키를 입력하세요.");
     height[studentNumber] = double.Parse(Console.ReadLine());
 
-    Console.WriteLine("몸무게를 입력하세요.");
+    Console.WriteLine("몸무게를 입력하세요.")
     weight[studentNumber] = double.Parse(Console.ReadLine());
 
     Console.Write(studentNumber);
@@ -33,7 +32,7 @@ if (studentNumber >= 0 && studentNumber <= studentCount - 1)
     Console.WriteLine(height[studentNumber]);
     Console.Write("나이");
     Console.WriteLine(ages[studentNumber]);
-    Console.Write("몸무게");
+    Console.Write("몸무게")
     Console.WriteLine(weight[studentNumber]);
 }
 
@@ -43,5 +42,3 @@ else
     Console.Write(studentCount - 1);
     Console.WriteLine("사이의 숫자를 입력하세요.");
 }
-
-
