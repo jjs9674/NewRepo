@@ -1,8 +1,8 @@
-﻿for (int i = 2; i <= 9; i++)  // (int i = 2; i <= 9; i++ ) , i를 1만큼 증가시키려면 i++ 이다. i를 2만큼 증가시키려면 i = i + 2를 사용
+﻿for (int i = 2; i <= 8; i = i + 2) // i를 2만큼 증가시키려면 i = i + 2를 사용
 {
-    Console.Write( i ); 
+    Console.Write(i);
     Console.WriteLine("단");
-    for (int j = 1; j <= 9; j++ )
+    for (int j = 1; j <= 9; j++)
     {
         Console.Write(i);
         Console.Write("x");

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - 심화(2) 이중 for문을 사용한 각반의 평균 구하기", "09 - 심화(2) 이중 for문을 사용한 각반의 평균 구하기\09 - 심화(2) 이중 for문을 사용한 각반의 평균 구하기.csproj", "{1249FD69-6180-4031-9B96-C5A6A29E31BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1249FD69-6180-4031-9B96-C5A6A29E31BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1249FD69-6180-4031-9B96-C5A6A29E31BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1249FD69-6180-4031-9B96-C5A6A29E31BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1249FD69-6180-4031-9B96-C5A6A29E31BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF08384-C447-46EC-84B5-80CCD85F472A}
+	EndGlobalSection
+EndGlobal
